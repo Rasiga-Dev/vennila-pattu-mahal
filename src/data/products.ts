@@ -524,6 +524,28 @@
 
 
 import { Product } from '../types';
+import saree01 from '../../public/uploads/saree01.jpg';
+import saree02 from '../../public/uploads/saree02.jpg';
+import saree03 from '../../public/uploads/saree03.jpg';
+import saree04 from '../../public/uploads/saree04.jpg';
+import saree05 from '../../public/uploads/saree05.jpg';
+import saree06 from '../../public/uploads/saree06.jpg';
+import saree07 from '../../public/uploads/saree07.jpg';
+import saree08 from '../../public/uploads/saree08.jpg';
+import saree09 from '../../public/uploads/saree09.jpg';
+import saree10 from '../../public/uploads/saree10.jpg';
+import saree11 from '../../public/uploads/saree11.jpg';
+import saree12 from '../../public/uploads/saree12.jpg';
+import saree13 from '../../public/uploads/saree13.jpg';
+import saree14 from '../../public/uploads/saree14.jpg';
+import saree15 from '../../public/uploads/saree15.jpg';
+import saree16 from '../../public/uploads/saree16.jpg';
+import saree17 from '../../public/uploads/saree17.jpg';
+import saree18 from '../../public/uploads/saree18.jpg';
+import saree19 from '../../public/uploads/saree19.jpg';
+import saree20 from '../../public/uploads/saree20.jpg';
+import saree21 from '../../public/uploads/saree21.jpg';
+
 
 export const products: Product[] = [
 
@@ -535,7 +557,7 @@ export const products: Product[] = [
     price: 499,
     oldPrice: 599,
     category: 'Saree',
-    imageUrl: '../public/uploads/saree01.jpg',
+    imageUrl: saree01,
   },
   {
     id: '#saree_02',
@@ -544,7 +566,7 @@ export const products: Product[] = [
    price: 499,
     oldPrice: 599,
     category: 'Saree',
-    imageUrl: '../public/uploads/saree02.jpg',
+    imageUrl: saree02,
   },
   {
     id: '#saree_03',
@@ -553,7 +575,7 @@ export const products: Product[] = [
     price: 499,
     oldPrice: 599,
     category: 'Saree',
-    imageUrl: '../public/uploads/saree03.jpg',
+    imageUrl: saree03,
   },
   {
     id: '#saree_04',
@@ -562,7 +584,7 @@ export const products: Product[] = [
     price: 499,
     oldPrice: 599,
     category: 'Saree',
-    imageUrl: '../public/uploads/saree04.jpg',
+    imageUrl: saree04,
   },
   {
     id: '#saree_05',
@@ -571,7 +593,7 @@ export const products: Product[] = [
    price: 699,
     oldPrice: 831,
     category: 'Saree',
-    imageUrl: '../public/uploads/saree05.jpg',
+    imageUrl: saree05,
   },
   {
     id: '#saree_06',
@@ -580,7 +602,7 @@ export const products: Product[] = [
      price: 699,
     oldPrice: 831,
     category: 'Saree',
-    imageUrl: '../public/uploads/saree06.jpg',
+    imageUrl: saree06,
   },
   {
     id: '#saree_07',
@@ -589,7 +611,7 @@ export const products: Product[] = [
     price: 699,
     oldPrice: 831,
     category: 'Saree',
-    imageUrl: '../public/uploads/saree07.jpg',
+    imageUrl: saree07,
   },
   {
     id: '#saree_08',
@@ -598,7 +620,7 @@ export const products: Product[] = [
    price: 699,
     oldPrice: 831,
     category: 'Saree',
-    imageUrl: '../public/uploads/saree08.jpg',
+    imageUrl: saree08,
   },
   {
     id: '#saree_09',
@@ -607,7 +629,7 @@ export const products: Product[] = [
    price: 699,
     oldPrice: 831,
     category: 'Saree',
-    imageUrl: '../public/uploads/saree09.jpg',
+    imageUrl: saree09,
   },
   {
     id: '#saree_10',
@@ -616,7 +638,7 @@ export const products: Product[] = [
     price: 699,
     oldPrice: 831,
     category: 'Saree',
-    imageUrl: '../public/uploads/saree10.jpg',
+    imageUrl: saree10,
   },
   {
     id: '#saree_11',
@@ -625,7 +647,7 @@ export const products: Product[] = [
    price: 699,
     oldPrice: 831,
     category: 'Saree',
-    imageUrl: '../public/uploads/saree11.jpg',
+    imageUrl: saree11,
   },
   {
     id: '#saree_12',
@@ -634,7 +656,7 @@ export const products: Product[] = [
     price: 699,
     oldPrice: 831,
     category: 'Saree',
-    imageUrl: '../public/uploads/saree12.jpg',
+    imageUrl: saree12,
   },
   {
     id: '#saree_13',
@@ -643,7 +665,7 @@ export const products: Product[] = [
     price: 599.0,
     size: 'Free Size',
     category: 'Saree',
-    imageUrl: '../public/uploads/saree13.jpg',
+    imageUrl: saree13,
   },
   {
     id: '#saree_14',
@@ -652,7 +674,7 @@ export const products: Product[] = [
     price: 599.0,
     size: 'Free Size',
     category: 'Saree',
-    imageUrl: '../public/uploads/saree14.jpg',
+    imageUrl: saree14,
   },
   {
     id: '#saree_15',
@@ -661,7 +683,7 @@ export const products: Product[] = [
     price: 599.0,
     size: 'Free Size',
     category: 'Saree',
-    imageUrl: '../public/uploads/saree15.jpg',
+    imageUrl: saree15,
   },
   {
     id: '#saree_16',
@@ -670,7 +692,7 @@ export const products: Product[] = [
     price: 599.0,
     size: 'Free Size',
     category: 'Saree',
-    imageUrl: '../public/uploads/saree16.jpg',
+    imageUrl: saree16,
   },
   {
     id: '#saree_17',
@@ -679,7 +701,7 @@ export const products: Product[] = [
     price: 599.0,
     size: 'Free Size',
     category: 'Saree',
-    imageUrl: '../public/uploads/saree17.jpg',
+    imageUrl: saree17,
   },
   {
     id: '#saree_18',
@@ -688,7 +710,7 @@ export const products: Product[] = [
     price: 599.0,
     size: 'Free Size',
     category: 'Saree',
-    imageUrl: '../public/uploads/saree18.jpg',
+    imageUrl: saree18,
   },
   {
     id: '#saree_19',
@@ -697,7 +719,7 @@ export const products: Product[] = [
     price: 599.0,
     size: 'Free Size',
     category: 'Saree',
-    imageUrl: '../public/uploads/saree19.jpg',
+    imageUrl: saree19,
   },
   {
     id: '#saree_20',
@@ -706,7 +728,7 @@ export const products: Product[] = [
    price: 490,
     oldPrice: 590,
     category: 'Saree',
-    imageUrl: '../public/uploads/saree20.jpg',
+    imageUrl: saree20,
   },
   {
     id: '#saree_21',
@@ -715,7 +737,7 @@ export const products: Product[] = [
    price: 490,
     oldPrice: 590,
     category: 'Saree',
-    imageUrl: '../public/uploads/saree21.jpg',
+    imageUrl: saree21,
   },
 
 ];
