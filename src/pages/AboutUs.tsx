@@ -1,4 +1,5 @@
 import { Heart, Users, Star, Palette } from 'lucide-react';
+import owner from '../../public/uploads/owner.jpg';
 
 export default function AboutUs() {
   return (
@@ -18,7 +19,7 @@ export default function AboutUs() {
             {/* Owner Image */}
             <div className="flex justify-center">
               <img
-                src="../public/uploads/owner.jpg"
+                src={owner}
                 alt="Owner Arumugam"
                 className="w-100 h-100 object-cover rounded-2xl shadow-lg"
               />
