@@ -18,7 +18,7 @@ export default function AboutUs() {
             {/* Owner Image */}
             <div className="flex justify-center">
               <img
-                src="/src/assets/owner.jpg"
+                src="../public/uploads/owner.jpg"
                 alt="Owner Arumugam"
                 className="w-100 h-100 object-cover rounded-2xl shadow-lg"
               />

@@ -38,7 +38,7 @@ export default function Header({ currentPage, onNavigate }: HeaderProps) {
           <div className="flex items-center cursor-pointer" onClick={() => onNavigate('Home')}>
             {/* <div className="w-12 h-12 bg-gradient-to-br from-orange-500 to-red-600 rounded-full flex items-center justify-center"> */}
               {/* <span className="text-white font-bold text-xl">VP</span> */}
-             <img src="/src/assets/logo.jpg" alt="Vennila Pattu Mahal Logo" className="w-12 h-12 rounded-[80%]" />
+             <img src="../public/uploads/logo.jpg" alt="Vennila Pattu Mahal Logo" className="w-12 h-12 rounded-[80%]" />
             {/* </div> */}
             <div className="ml-3">
               <h1 className="text-2xl font-bold text-gray-900">Vennila Pattu Mahal</h1>

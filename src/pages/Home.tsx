@@ -1,6 +1,6 @@
 import { Sparkles, Award, Gift, Globe } from 'lucide-react';
-import shop from '../assets/shop.jpg';
-import hero from '../assets/hero.png';
+import shop from '../../public/uploads/shop.jpg';
+import hero from '../../public/uploads/hero.png';
 
 interface HomeProps {
   onNavigate: (page: string) => void;
